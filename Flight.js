@@ -18,6 +18,7 @@
 //      }
 // }
 //////////////////////////////////////////
+
 let init=function(){
     let sl=["Baku-Istanbul", "Baku-Tbilisi", "Baku-Moscow", "Kiev-Baku", "Beijing-Baku"];
      return sl;
